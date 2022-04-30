@@ -1,0 +1,90 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black ;
+    padding: 0px;
+    margin: 0px;
+    height:400px;
+    background-color:#f2f7ff;
+   
+}
+.random{
+    border-style: none;
+    height: 0px;
+    width: 0px;
+    margin: auto;
+    padding: 0px;
+}
+p{
+    text-align: center;
+    
+}
+.left{
+    text-align: center;
+    display: absolute;
+    /* left: 10px;
+    top: 10px; */
+    
+}
+.navbar{
+    text-align: center;
+    
+}
+.navbar li{
+    display: inline-block;
+
+}
+.navbar li a{
+    text-decoration: none;
+    padding: 3px 33px;
+    border: 2px solid blueviolet;
+}
+.navabar li a:hover{
+    color:grey;
+}
+.btn{
+    margin: 10px 700px;
+    background-color: blue;
+    color: aliceblue;
+    padding: 4px 14px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.btn:hover{
+    background-color: orange;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.about{
+    background-color: #fffdfd;
+
+}
+.what{
+    background-color:rgb(101, 101, 205);
+    padding: 34px 23px;
+}
+.right{
+    text-align: center;
+}
+.about h2{
+    color: blue;
+}
+.what h2{
+    color: white;
+}
+.phone1{
+    float:left;
+}
+.phone2{
+    float:right;
+}
+.phone3{
+    float:left;
+}
